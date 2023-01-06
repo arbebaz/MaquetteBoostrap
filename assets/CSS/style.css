@@ -1,0 +1,74 @@
+header{
+
+    background: url(../images/header.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.body{
+
+  background-color: #eeeeee;
+}
+
+
+
+.lien{
+
+  text-decoration: none;
+}
+
+nav .lien{
+
+  color: #3b7190;
+}
+
+.bouton{
+
+  color: #3b7190;
+}
+
+.boutton{
+
+  background-color: #3b7190;
+  border: #3b7190 solid;
+}
+
+.search-button {
+    background: transparent;
+    border: none;
+    outline: none;
+    /* margin-left: -33px; */
+  }
+  
+  .search-button img {
+    width: 20px;
+    height: 20px;
+    object-fit: cover;
+  }
+
+   select{
+
+     border: none;
+    background: none;
+    color: white; 
+    -webkit-appearance: none;
+}
+
+/* form{
+    width: 30rem;
+}
+
+input{
+    border: none;
+    background: none;
+} */
+
+input::placeholder{
+    color: white;
+}
+
+.paye{
+  object-fit: contain;
+
+}
+  
